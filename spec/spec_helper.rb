@@ -1,4 +1,4 @@
-require 'database_connection'
+require_relative '../lib/database_connections.rb'
 
 # Make sure this connects to your test database
 # (its name should end with '_test')
